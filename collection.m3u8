@@ -36,9 +36,6 @@ https://stream.rcs.revma.com/7mnq8rt7k5zuv
 #EXTINF:-1,JazzRadio 106.8 Berlin
 https://streaming.radio.co/s774887f7b/listen
 
-#EXTINF:-1,Klassik Radio
-http://klassikr.streamabc.net/klassikradio-simulcast-mp3-hq?sABC=64448o22%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fgernz.xynffvxenqvb.qr&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1682213666
-
 #EXTINF:-1,Klassik Radio - Klassik am Morgen
 https://klassikr.streamabc.net/klr-klassikammorgen-mp3-192-5547438?sABC=64450q98%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682247064
 
@@ -50,6 +47,9 @@ https://klassikr.streamabc.net/klr-weinabend-mp3-192-7500291?sABC=6445176s%230%2
 
 #EXTINF:-1,Klassik Radio - Legenden der Klassik
 http://klassikr.streamabc.net/klassikradio-simulcast-mp3-hq?sABC=644507n6%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682245542
+
+#EXTINF:-1,Klassik Radio - Live
+https://edge65.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 
 #EXTINF:-1,Klassik Radio - Romantischer Abend
 https://klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897?sABC=6444r6s4%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682237172
