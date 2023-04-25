@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1,- 0 N - Jazz on Radio
+https://0n-jazz.radionetz.de/0n-jazz.mp3
+
+#EXTINF:-1,- 0 N - Klassik on Radio
+https://0n-klassik.radionetz.de/0n-klassik.mp3
+
+#EXTINF:-1,- 0 N - Smooth Jazz on Radio
+https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
+
+#EXTINF:-1,BR-Klassik mp3 192 kbit
+https://d131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2Oof7oZrX215eg48HvtLP5C0Usc&token=LpGr4IGig8aND4V89fefJ_CJSaesB0s--_sHivp-Ld4&tvf=ASjIbnSQWBdkMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1,Bravo FM 台北都會音樂台
+https://onair.bravo913.com.tw:9130/live.mp3
+
+#EXTINF:-1,Classical 古典音樂台 FM 97.7
+http://59.120.88.155:8000/live.mp3
+
+#EXTINF:-1,Europa Radio Jazz
+https://onair.europaradiojazz.org/radio/8000/hd
+
+#EXTINF:-1,FluxFM - Jazzradio Schwarzenstein
+http://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=64445n8r%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1682201230
+
+#EXTINF:-1,FluxFM - XJAZZ
+http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=64450n12%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1682246162
+
+#EXTINF:-1,Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/
+
+#EXTINF:-1,IC之音 FM97.5
+https://stream.rcs.revma.com/7mnq8rt7k5zuv
+
+#EXTINF:-1,JazzRadio 106.8 Berlin
+https://streaming.radio.co/s774887f7b/listen
+
+#EXTINF:-1,Klassik Radio - Klassik am Morgen
+https://klassikr.streamabc.net/klr-klassikammorgen-mp3-192-5547438?sABC=64450q98%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682247064
+
+#EXTINF:-1,Klassik Radio - Klassik Dreams
+http://klassikr.streamabc.net/klr-klassikdreams-mp3-128-7441635?sABC=64451r55%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682251349
+
+#EXTINF:-1,Klassik Radio - Klassik zum Weinabend
+https://klassikr.streamabc.net/klr-weinabend-mp3-192-7500291?sABC=6445176s%230%232qqpnss01895rqr0s8oq129o03s183o0%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682249583
+
+#EXTINF:-1,Klassik Radio - Legenden der Klassik
+http://klassikr.streamabc.net/klassikradio-simulcast-mp3-hq?sABC=644507n6%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682245542
+
+#EXTINF:-1,Klassik Radio - Live
+https://edge65.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+
+#EXTINF:-1,Klassik Radio - Romantischer Abend
+https://klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897?sABC=6444r6s4%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682237172
+
+#EXTINF:-1,Klassik Radio Piano
+http://klassikr.streamabc.net/klr-piano-mp3-128-7465124
+
+#EXTINF:-1,Linn Classical
+http://radio.linn.co.uk:8004/autodj
+
+#EXTINF:-1,Linn Jazz
+http://radio.linn.co.uk:8000/autodj
+
+#EXTINF:-1,MDR Klassik
+http://d111.rndfnk.com/ard/mdr/284350/0/mp3/128/stream.mp3?cid=01FBQ09PR39341DRRYP1TNBHVH&sid=2OnHxqV3uQWqoeIOo1g7NMV053V&token=PRRTos3Vc8QI1lDo05PeEdayS4s64h0zi8mQuu9Yi9M&tvf=0pn44T1qWBdkMTExLnJuZGZuay5jb20
+
+#EXTINF:-1,Naim Classical
+http://mscp3.live-streams.nl:8250/class-high.aac
+
+#EXTINF:-1,Naim Jazz [320k aac]
+http://mscp3.live-streams.nl:8340/jazz-high.aac
+
+#EXTINF:-1,NDR Info Play Jazz
+http://d131.rndfnk.com/ard/ndr/loop/31/mp3/128/stream.mp3?cid=01FBRZFJHDPERJNQJ72DX4GBCK&sid=2OoIutPmkBzYlduG8kAUJcvUyYE&token=qPaNUKUi4YWNhxv59268yI72CoMcpfzMGN48_GfTAnk&tvf=5-OxP32GWBdkMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1,Nonstop Casiopea
+http://hyades.shoutca.st:8551/;
+
+#EXTINF:-1,Ottava
+http://ottava2.out.airtime.pro:8000/ottava2_a
+
+#EXTINF:-1,RauteMusik Klassik
+http://rautemusik-de-hz-fal-stream11.radiohost.de/klassik?
+
+#EXTINF:-1,RauteMusik Solopiano
+http://rautemusik-de-hz-fal-stream14.radiohost.de/solopiano?
+
+#EXTINF:-1,Shonan Beach FM 78.9
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+
+#EXTINF:-1,Smooth Jazz
+https://smoothjazz.cdnstream1.com/2585_320.mp3
+
+#EXTINF:-1,WDR 3 HQ
+http://d111.rndfnk.com/ard/wdr/wdr3/live/mp3/256/stream.mp3?cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=2OpF4NzfsNGxe45Nr2p82o7dMgh&token=hYOFEUeTw_ZxDixxPWw4RJXQlDf8JYJgBDwTBaBePns&tvf=IBzRYpWgWBdkMTExLnJuZGZuay5jb20
+
+#EXTINF:-1,佳音經典音樂網
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
+
+#EXTINF:-1,台北古典廣播
+https://stream-058.zeno.fm/w66d3dp6ynhvv?zs=TDo35fQkShWfUb6QkNq6uA
+
+#EXTINF:-1,台北愛樂 FM99.7
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=EnUZVr8t_qiAv6v0TsAg4w&expires=1684748721
+
+#EXTINF:-1,台北愛樂 Goodies
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=3OGY-lPBQXPPF0bss5830Q&expires=1684748721
+
+#EXTINF:-1,台北愛樂 Jazz
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=WskUGIJ1ZcFTLn2jX-6uuQ&expires=1684748721
+
+#EXTINF:-1,台北愛樂 Kids
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=nkEMzCQ7AlkDPtTozPJ01g&expires=1684748721
+
+#EXTINF:-1,台北愛樂 UR Classical
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=HCnjeEsJxw2Qf5hE1XwqBg&expires=1684748721
+
+#EXTINF:-1,栗子的輕音樂
+http://lizeradio.com:8080/;&type=mp3
