@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:-1,- 0 N - Jazz on Radio
 https://0n-jazz.radionetz.de/0n-jazz.mp3
@@ -32,9 +32,6 @@ http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=64450n12%230%23r4880q
 
 #EXTINF:-1,Hi On Line Jazz Radio
 http://mediaserv38.live-streams.nl:8006/
-
-#EXTINF:-1,IC之音 FM97.5
-https://stream.rcs.revma.com/7mnq8rt7k5zuv
 
 #EXTINF:-1,JazzRadio 106.8 Berlin
 https://streaming.radio.co/s774887f7b/listen
@@ -105,20 +102,23 @@ https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
 #EXTINF:-1,台北古典廣播
 https://stream-058.zeno.fm/w66d3dp6ynhvv?zs=TDo35fQkShWfUb6QkNq6uA
 
-#EXTINF:-1,台北愛樂 FM99.7
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=Jwfz6TnwjWDO1JBEpyiifA&expires=1685024082
-
-#EXTINF:-1,台北愛樂 Goodies
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=QpnWncnumNfyjo4rVXbwjA&expires=1685024083
-
-#EXTINF:-1,台北愛樂 Jazz
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=GFgD_Y6AVWRbTvqKkZso_Q&expires=1685024082
-
-#EXTINF:-1,台北愛樂 Kids
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=W4dezzhUsO4rZoadcuCCDQ&expires=1685024083
-
-#EXTINF:-1,台北愛樂 UR Classical
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=jMI1pCyzKredL2tTTua1TA&expires=1685024083
-
 #EXTINF:-1,栗子的輕音樂
 http://lizeradio.com:8080/;&type=mp3
+
+#EXTINF:-1,IC之音 FM97.5 
+https://stream.rcs.revma.com/7mnq8rt7k5zuv
+
+#EXTINF:-1,台北愛樂 FM99.7 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=GT_Au87h1sARlmtCHmJBVw&expires=1685089389
+
+#EXTINF:-1,台北愛樂 Jazz 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=jGSeZePGIx_V3zylpdvq1A&expires=1685089389
+
+#EXTINF:-1,台北愛樂 Goodies 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=uAc_3Hfu4_5L9H6tVVH7Mw&expires=1685089389
+
+#EXTINF:-1,台北愛樂 Kids 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=KWKHXH_axZfUxAYqKddLTw&expires=1685089389
+
+#EXTINF:-1,台北愛樂 UR Classical 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=ePodvtisjP7lWqsEkSVixA&expires=1685089389
