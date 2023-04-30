@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:aimp="http://www.aimp.ru/playlist/ns/0/" version="1">
+  <title>Classical-Taiwan-FM99.7-AIMP</title>
+  <identifier>{0CBA0CA5-0BDF-4F5F-871A-512383D77014}</identifier>
+  <location>file:///D:/MyData/Music/Playlists/HLS-Taiwan/~Classical-Taiwan-FM99.7-AIMP.xspf</location>
+  <extension application="http://www.aimp.ru/playlist/summary/0">
+    <aimp:prop name="ID">{0CBA0CA5-0BDF-4F5F-871A-512383D77014}</aimp:prop>
+    <aimp:prop name="Name">Classical-Taiwan-FM99.7-AIMP</aimp:prop>
+    <aimp:prop name="NameIsAutoSet">0</aimp:prop>
+    <aimp:prop name="ContentFiles">1</aimp:prop>
+    <aimp:prop name="PlaybackCursor">0</aimp:prop>
+    <aimp:prop name="PlaybackCursorAutoBookmark">0</aimp:prop>
+    <aimp:prop name="Shuffled">0</aimp:prop>
+  </extension>
+  <extension application="http://www.aimp.ru/playlist/settings/0">
+    <aimp:prop name="Flags">2047</aimp:prop>
+    <aimp:prop name="FormatMainLine">%IF(%Artist,%Artist - %Title,%Title)</aimp:prop>
+    <aimp:prop name="FormatSecondLine">%FileFormat :: %SampleRate, %BitRate, %FileSize</aimp:prop>
+    <aimp:prop name="GroupFormatLine">%FileDir</aimp:prop>
+  </extension>
+  <trackList>
+    <track>
+      <location>https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=YmmBcvPUH7maUiGYymM71w&amp;expires=1685417462</location>
+      <title>台北愛樂 FM99.7</title>
+      <extension application="http://www.aimp.ru/playlist/track/0">
+        <aimp:queueIndex>0</aimp:queueIndex>
+      </extension>
+      <extension application="http://www.aimp.ru/playlist/group/0">
+        <aimp:title>Radio</aimp:title>
+        <aimp:state>1</aimp:state>
+      </extension>
+    </track>
+  </trackList>
+</playlist>
