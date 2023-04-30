@@ -1,3 +1,4 @@
 #EXTM3U8 
 #EXTINF:-1,台北愛樂 FM99.7 
+#EXT-X-PLAYLIST-TYPE:application/vnd.apple.mpegurl
 https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=7aHkSVZU2QhNlEwIOh8ZsA&expires=1685428975
