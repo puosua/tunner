@@ -76,7 +76,7 @@ http://streams.calmradio.com:7328/stream
 http://streams.calmradio.com:13028/stream
 
 #EXTINF:-1,Calm Radio - Solo Piano
-http://streams.calmradio.com:1228/
+http://streams.calmradio.com:1228/stream
 
 #EXTINF:-1,Calm Radio - Symphony
 http://streams.calmradio.com:1028/stream
@@ -85,7 +85,7 @@ http://streams.calmradio.com:1028/stream
 http://streams.calmradio.com:4528/stream
 
 #EXTINF:-1,Calm Radio -J-pop
-http://streams.calmradio.com:21928/stream/;.m3u
+http://streams.calmradio.com:21928/stream
 
 #EXTINF:-1,Calm Radio-Opera
 http://streams.calmradio.com:1128/stream
