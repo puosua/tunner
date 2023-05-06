@@ -1,5 +1,3 @@
-#EXTM3U8
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=107534,CODECS="mp4a.40.2"
-#EXTINF:-1,台北愛樂 FM99.7
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=Yue_uMDkx_Cmvg_8IT-apQ&expires=1685973662
+#EXTM3U8 
+#EXTINF:-1,台北愛樂 FM99.7 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=whDy2NKG307kUEZwQmknBA&expires=1686042476
