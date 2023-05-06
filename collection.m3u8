@@ -226,7 +226,7 @@ http://hyades.shoutca.st:8551/;
 https://astro4.rastream.com/opus
 
 #EXTINF:-1,OST차트TOP20 128K MP3
-http://nsc01.saycast.com:7004/
+http://nsc01.saycast.com:7004
 
 #EXTINF:-1,Ottava
 http://ottava2.out.airtime.pro:8000/ottava2_a
@@ -241,7 +241,7 @@ http://strm112.1.fm/classical_mobile_mp3
 http://relay.publicdomainradio.org/classical.aac
 
 #EXTINF:-1,Radio BSJ Jazz 128K MP3
-https://myradio24.org/bsj
+https://listen7.myradio24.com/bsj
 
 #EXTINF:-1,Radio Klassik Stephansdom
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
