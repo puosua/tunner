@@ -225,8 +225,8 @@ http://hyades.shoutca.st:8551/;
 #EXTINF:-1,Opus
 https://astro4.rastream.com/opus
 
-#EXTINF:-1,OST-TOP20 128K MP3
-https://raw.githubusercontent.com/puosua/tunner/main/HLS/OST-TOP20.pls
+#EXTINF:-1,OST차트TOP20 128K MP3
+http://ch08.saycast.com/
 
 #EXTINF:-1,Ottava
 http://ottava2.out.airtime.pro:8000/ottava2_a
@@ -310,7 +310,7 @@ https://stream-058.zeno.fm/w66d3dp6ynhvv?zs=TDo35fQkShWfUb6QkNq6uA
 http://lizeradio.com:8080/;&type=mp3
 
 #EXTINF:-1,台北愛樂 FM99.7 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=ycr8FQdO2rG56WqT06HYkQ&expires=1686060063
+https://raw.githubusercontent.com/puosua/tunner/main/HLS/Classical-Taiwan-FM99.7.m3u8
 
 #EXTINF:-1,台北愛樂 Jazz 
 https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=O9YjzpXnIYQjUTjIZDWSCg&expires=1686060063
