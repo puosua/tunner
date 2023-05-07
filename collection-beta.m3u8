@@ -20,3 +20,15 @@ http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz
 https://bsj.lucasmultimedia.com:8002/stream.ogg
+
+#EXTINF:-1,[C輕鬆] Whisperings Solo Piano Radio
+http://pianosolo.streamguys.net/live
+
+#EXTINF:-1,[D亞洲] Aewen Radio K-Jpop Channel
+http://209.58.145.135:8031/stream
+
+#EXTINF:-1,[D亞洲] Aewen Radio K-OSTs Channel
+http://209.58.145.135:8025/stream
+
+#EXTINF:-1,[D亞洲] Aewen Radio K-Pop Channel
+http://209.58.145.135:8001/stream
