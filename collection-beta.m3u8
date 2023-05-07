@@ -8,3 +8,15 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 
 #EXTINF:-1,[A古典] BR-Klassik mp3 192 kbit
 https://d131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2Oof7oZrX215eg48HvtLP5C0Usc&token=LpGr4IGig8aND4V89fefJ_CJSaesB0s--_sHivp-Ld4&tvf=ASjIbnSQWBdkMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1,[B爵士] Bay Smooth Jazz Radio 256K MP3
+http://strm112.1.fm/smoothjazz_mobile_mp3
+
+#EXTINF:-1,[B爵士] Blues Radio 256K MP3
+http://strm112.1.fm/blues_mobile_mp3
+
+#EXTINF:-1,[B爵士] Bossa Nova Hits Radio 256K MP3
+http://strm112.1.fm/bossanova_mobile_mp3
+
+#EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz
+https://bsj.lucasmultimedia.com:8002/stream.ogg
