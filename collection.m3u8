@@ -225,7 +225,7 @@ http://hyades.shoutca.st:8551/;
 #EXTINF:-1,Opus
 https://astro4.rastream.com/opus
 
-#EXTINF:-1,OST차트TOP20 128K MP3
+#EXTINF:-1,OST-TOP20 128K MP3
 https://raw.githubusercontent.com/puosua/tunner/main/HLS/OST-TOP20.pls
 
 #EXTINF:-1,Ottava
