@@ -1,0 +1,29 @@
+#EXTM3U8 
+
+#EXTINF:-1,[A古典] - 0 N - Klassik on Radio
+https://0n-klassik.radionetz.de/0n-klassik.mp3
+
+#EXTINF:-1,[A古典] BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
+
+#EXTINF:-1,[A古典] BR-Klassik mp3 192 kbit
+https://d131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2Oof7oZrX215eg48HvtLP5C0Usc&token=LpGr4IGig8aND4V89fefJ_CJSaesB0s--_sHivp-Ld4&tvf=ASjIbnSQWBdkMTMxLnJuZGZuay5jb20
+
+http://17853.live.streamtheworld.com/JAZZSTREAM.mp3
+
+#EXTINF:-1,[B爵士] KCSM Jazz 128K MP3
+http://ice7.securenetsystems.net/KCSM2
+
+#EXTINF:-1,[B爵士] Linn Jazz
+http://radio.linn.co.uk:8000/autodj
+
+#EXTINF:-1,[B爵士] Naim Jazz 320K AAC
+http://mscp3.live-streams.nl:8340/jazz-high.aac
+
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=GZll43tG7QEupM_SO9w6ng&expires=1686120855
+
+#EXTINF:-1,[E臺灣] 台北愛樂 Kids 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=LFrHuVs6p7faTF1fT9QTYw&expires=1686120855
+
+#EXTINF:-1,[E臺灣] 台北愛樂 UR Classical 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=fB4Ih1Qs_URSBBisE8vbAQ&expires=1686120855
