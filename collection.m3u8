@@ -282,8 +282,11 @@ http://live.japanesemusicid.com:8000/japanesemusic
 #EXTINF:-1,[D亞洲] Japanisu Radio - Japanese Music & Asian Music
 https://stream.radioani.me/listen/japanisu/radio.mp3
 
-#EXTINF:-1,[D亞洲] OST차트TOP20 128K MP3
-http://ch08.saycast.com/
+#EXTINF:-1,[D亞洲] SayClub CH05 - Trot TOP20 128K MP3
+http://ch05.saycast.com
+
+#EXTINF:-1,[D亞洲] SayClub CH08 - OST TOP20 128K MP3
+http://ch08.saycast.com
 
 #EXTINF:-1,[E臺灣] Bravo FM 台北都會音樂台
 https://onair.bravo913.com.tw:9130/live.mp3
@@ -310,16 +313,16 @@ https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
 http://lizeradio.com:8080/;&type=mp3
 
 #EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=_fbw2C-VpnkltW8Rsqcasw&expires=1686232862
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=pAj8BWmfCKC6O0EeNcDk4A&expires=1686235503
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Jazz 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=qRGjCBHD2rrPijT-KmLEdg&expires=1686232862
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=Z4xBqxizHtyuzhUEOMV5wA&expires=1686235503
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Goodies 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=Vz8ihtUI2TOLOrW3L4Yuyw&expires=1686232862
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=i8LNdYGsnl3LT8zDCkwkwg&expires=1686235503
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Kids 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=6MTDfWvRRXpu9vQNKfi98Q&expires=1686232862
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=NqpXQaHRssW9sjRGQSLTiQ&expires=1686235503
 
 #EXTINF:-1,[E臺灣] 台北愛樂 UR Classical 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=vNjNqldBQtOcYt57bDI4cw&expires=1686232862
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=6jd2RVfHESukNWeI_B3ETA&expires=1686235503
