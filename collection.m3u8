@@ -117,6 +117,9 @@ http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #EXTINF:-1,[A古典] RauteMusik Klassik
 http://rautemusik-de-hz-fal-stream11.radiohost.de/klassik?
 
+#EXTINF:-1,[A古典] RNE Radio Clásica Almería HLS
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
+
 #EXTINF:-1,[A古典] Rondo Klasu 320K MP3
 http://iradio.fi:8000/klasu-hi.mp3
 
@@ -312,17 +315,17 @@ https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
 #EXTINF:-1,[E臺灣] 栗子的輕音樂
 http://lizeradio.com:8080/;&type=mp3
 
-#EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=IvqRcpXw8VYHxJ9d7YC2sQ&expires=1686319401
+#EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=Y9vziioUupqY_7324VJucQ&expires=1686380049
 
-#EXTINF:-1,[E臺灣] 台北愛樂 Jazz 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=mVhWefIPJ3Yuu2ec6Ox5WQ&expires=1686319401
+#EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=jeDZvhlufDJ3ilOHjJQ8rg&expires=1686380049
 
-#EXTINF:-1,[E臺灣] 台北愛樂 Goodies 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=lzJp5Ar3tkqlrLiekkZ-8Q&expires=1686319401
+#EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=ocnKHY03AL78J7j5gaVPig&expires=1686380049
 
-#EXTINF:-1,[E臺灣] 台北愛樂 Kids 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=fyWf86YwFOd0GtVsEyr7yw&expires=1686319401
+#EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=TsN53ht_BNSj2_erSqlRaw&expires=1686380049
 
-#EXTINF:-1,[E臺灣] 台北愛樂 UR Classical 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=dC4xCC8xmTu9w4RRKs_knA&expires=1686319401
+#EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=dR_KRrm_BOZOSwjVqsBBaw&expires=1686380049
