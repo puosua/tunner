@@ -286,10 +286,10 @@ http://live.japanesemusicid.com:8000/japanesemusic
 https://stream.radioani.me/listen/japanisu/radio.mp3
 
 #EXTINF:-1,[D亞洲] SayClub CH05 - Trot TOP20 128K MP3
-http://ch05.saycast.com
+http://ch05.saycast.com:80/
 
 #EXTINF:-1,[D亞洲] SayClub CH08 - OST TOP20 128K MP3
-http://ch08.saycast.com
+http://ch08.saycast.com:80/
 
 #EXTINF:-1,[E臺灣] Bravo FM 台北都會音樂台
 https://onair.bravo913.com.tw:9130/live.mp3
