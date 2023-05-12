@@ -316,16 +316,28 @@ https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
 http://lizeradio.com:8080/;&type=mp3
 
 #EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=5tyLY3SX6DbtCkBfFXO0ig&expires=1686492329
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=IfJhDx-3V21yHasFUwf7sQ&expires=1686560356
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=uPhPTI-_99s0ZUQ7G_YxdA&expires=1686492329
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=LvdhfNpNm9j3sFv7Hhfrkw&expires=1686560356
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=MDb8W5TdvGZQiA7ghH5HGg&expires=1686492329
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=Ktb2TpTW12RIGE9cTMz1ug&expires=1686560356
 
 #EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=S__GJpSZWw3LfaBk8siCJA&expires=1686492329
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=A25Uim1b1YZwR5YTXdihQg&expires=1686560356
 
 #EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=nKUKuHUXK4Qcw_984AeJfA&expires=1686492329
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=sQ4qTxrT2Raxgxhl2uHJFw&expires=1686560356
+
+#EXTINF:-1,[E臺灣] 好事989電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=zlVkMtfvKWstmA-WxNi0QQ&expires=1683968357
+
+#EXTINF:-1,[E臺灣] 好事903電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=bjx7S9D-oQ8Rc6Gi2O3LpA&expires=1683968357
+
+#EXTINF:-1,[E臺灣] 港都983電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=6TT4mT2I8PYd8XJM8VcAPg&expires=1683968357
+
+#EXTINF:-1,[E臺灣] 好事935電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=mSPd7bCnTS2HoO0iEMR6uQ&expires=1683968357
