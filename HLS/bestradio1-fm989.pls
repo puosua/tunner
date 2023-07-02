@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=好事989電台 HLS 
-File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=slh97WGGj_jja1z1usFPgw&expires=1688306463
+File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=MQWSaW16jtjiyx4jO4BPpg&expires=1688392863
