@@ -1,350 +1,242 @@
-#EXTM3U8 
-
+#EXTM3U
 #EXTINF:-1,[A古典] 0N Klassik
 https://0n-klassik.radionetz.de/0n-klassik.mp3
-
 #EXTINF:-1,[A古典] BBC Radio 3
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
-
 #EXTINF:-1,[A古典] BR-Klassik mp3 192 kbit
 https://d131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2Oof7oZrX215eg48HvtLP5C0Usc&token=LpGr4IGig8aND4V89fefJ_CJSaesB0s--_sHivp-Ld4&tvf=ASjIbnSQWBdkMTMxLnJuZGZuay5jb20
-
 #EXTINF:-1,[A古典] Calm Radio Bach
 http://streams.calmradio.com:6828/stream
-
 #EXTINF:-1,[A古典] Calm Radio Baroque
 http://streams.calmradio.com:3328/stream
-
 #EXTINF:-1,[A古典] Calm Radio Cello
 http://streams.calmradio.com:4628/stream
-
 #EXTINF:-1,[A古典] Calm Radio Chamber Music
 http://streams.calmradio.com:7528/stream
-
 #EXTINF:-1,[A古典] Calm Radio Mozart
 http://streams.calmradio.com:7328/stream
-
 #EXTINF:-1,[A古典] Calm Radio Opera
 http://streams.calmradio.com:1128/stream
-
 #EXTINF:-1,[A古典] Calm Radio Puccini
 http://streams.calmradio.com:13028/stream
-
 #EXTINF:-1,[A古典] Calm Radio Symphony
 http://streams.calmradio.com:1028/stream
-
 #EXTINF:-1,[A古典] Calm Radio Violin
 http://streams.calmradio.com:4528/stream
-
 #EXTINF:-1,[A古典] Chinese Music World
 http://radio.chinesemusicworld.com/chinesemusic.ogg
-
 #EXTINF:-1,[A古典] Classic FM (UK)
 http://media-ice.musicradio.com/ClassicFMMP3
-
 #EXTINF:-1,[A古典] Classical Crooze 128K MP3
 http://streams.crooze.fm:8016/stream128
-
 #EXTINF:-1,[A古典] Classical Music (Captial Public Radio) 96K MP3
 http://24883.live.streamtheworld.com/CLASSICALSTREAM.mp3
-
 #EXTINF:-1,[A古典] Davide of MIMIC 320K MP3
 https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream
-
 #EXTINF:-1,[A古典] KAMU-Classical 192K MP3
 https://kamu.streamguys1.com/hd2-192
-
 #EXTINF:-1,[A古典] Klassik Radio Klassik am Morgen
 https://klassikr.streamabc.net/klr-klassikammorgen-mp3-192-5547438?sABC=64450q98%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682247064
-
 #EXTINF:-1,[A古典] Klassik Radio Klassik Dreams
 http://klassikr.streamabc.net/klr-klassikdreams-mp3-128-7441635?sABC=64451r55%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682251349
-
 #EXTINF:-1,[A古典] Klassik Radio Klassik zum Weinabend
 https://klassikr.streamabc.net/klr-weinabend-mp3-192-7500291?sABC=6445176s%230%232qqpnss01895rqr0s8oq129o03s183o0%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682249583
-
 #EXTINF:-1,[A古典] Klassik Radio Legenden der Klassik
 http://klassikr.streamabc.net/klassikradio-simulcast-mp3-hq?sABC=644507n6%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682245542
-
 #EXTINF:-1,[A古典] Klassik Radio Live
 https://edge65.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
-
 #EXTINF:-1,[A古典] Klassik Radio Piano
 http://klassikr.streamabc.net/klr-piano-mp3-128-7465124
-
 #EXTINF:-1,[A古典] Klassik Radio Romantischer Abend
 https://klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897?sABC=6444r6s4%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23fryrpg&aw_0_1st.playerid=select&amsparams=playerid:select;skey:1682237172
-
 #EXTINF:-1,[A古典] kpbs Classical San Diego
 http://kpbs-classical.streamguys1.com/kpbs-classical
-
 #EXTINF:-1,[A古典] KUAT Classical 90.5
 http://128.196.34.144/t-stream/kuat.m3u8
-
 #EXTINF:-1,[A古典] Linn Classical
 http://radio.linn.co.uk:8004/autodj
-
 #EXTINF:-1,[A古典] MDR Klassik
 http://d111.rndfnk.com/ard/mdr/284350/0/mp3/128/stream.mp3?cid=01FBQ09PR39341DRRYP1TNBHVH&sid=2OnHxqV3uQWqoeIOo1g7NMV053V&token=PRRTos3Vc8QI1lDo05PeEdayS4s64h0zi8mQuu9Yi9M&tvf=0pn44T1qWBdkMTExLnJuZGZuay5jb20
-
 #EXTINF:-1,[A古典] Mother Earth Klassik 320K AAC
 http://server9.streamserver24.com:18910/motherearth.klassik.aac
-
 #EXTINF:-1,[A古典] Naim Classical 320K AAC
 http://mscp3.live-streams.nl:8250/class-high.aac
-
 #EXTINF:-1,[A古典] NDR Kultur
 http://d111.rndfnk.com/ard/ndr/ndrkultur/live/mp3/128/stream.mp3?cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=2PNKT1Hem733NOKPeyKaPghzUFA&token=LX-j0Z0hgBPVqF5BoJ0CuWjsqwiO5waOyU6v8b7G_F4&tvf=hh7b4ORUXBdkMTExLnJuZGZuay5jb20
-
 #EXTINF:-1,[A古典] Opus
 https://astro4.rastream.com/opus
-
 #EXTINF:-1,[A古典] Ottava
 http://ottava2.out.airtime.pro:8000/ottava2_a
-
 #EXTINF:-1,[A古典] Otto's Baroque Music Radio 256K MP3
 http://strm112.1.fm/baroque_mobile_mp3
-
 #EXTINF:-1,[A古典] Otto's Classical Music Radio 256K MP3
 http://strm112.1.fm/classical_mobile_mp3
-
 #EXTINF:-1,[A古典] Public Domain Classical 64K AAC
 http://relay.publicdomainradio.org/classical.aac
-
 #EXTINF:-1,[A古典] Radio Klassik Stephansdom
 http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
-
 #EXTINF:-1,[A古典] RauteMusik Klassik
 http://rautemusik-de-hz-fal-stream11.radiohost.de/klassik?
-
 #EXTINF:-1,[A古典] RNE Radio Clásica Almería HLS
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8
-
 #EXTINF:-1,[A古典] Rondo Klasu 320K MP3
 http://iradio.fi:8000/klasu-hi.mp3
-
 #EXTINF:-1,[A古典] Rondo Klasu Pro 320K MP3
 http://rondo.iradio.fi:8000/klasupro-hi.mp3
-
 #EXTINF:-1,[A古典] SECTOR Classical 160K OGG
 http://89.223.45.5:8000/nota-160
-
 #EXTINF:-1,[A古典] Symphony FM 96K AAC
 https://radiorecord.hostingradio.ru/symph96.aacp
-
 #EXTINF:-1,[A古典] The New Classical FM (Toronto) 192K MP3
 http://radiostream.zoomer.ca:8000/cfmo.mp3
-
 #EXTINF:-1,[A古典] WDR 3 HQ
 http://d111.rndfnk.com/ard/wdr/wdr3/live/mp3/256/stream.mp3?cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=2OpF4NzfsNGxe45Nr2p82o7dMgh&token=hYOFEUeTw_ZxDixxPWw4RJXQlDf8JYJgBDwTBaBePns&tvf=IBzRYpWgWBdkMTExLnJuZGZuay5jb20
-
 #EXTINF:-1,[A古典] ČRo D-dur 224K OGG
 http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
-
 #EXTINF:-1,[B爵士] 0N Jazz
 https://0n-jazz.radionetz.de/0n-jazz.mp3
-
 #EXTINF:-1,[B爵士] 0N Smooth Jazz
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
-
 #EXTINF:-1,[B爵士] Adore Jazz Radio 256K MP3
 http://strm112.1.fm/ajazz_mobile_mp3
-
 #EXTINF:-1,[B爵士] Bay Smooth Jazz Radio 256K MP3
 http://strm112.1.fm/smoothjazz_mobile_mp3
-
 #EXTINF:-1,[B爵士] Blues Radio 256K MP3
 http://strm112.1.fm/blues_mobile_mp3
-
 #EXTINF:-1,[B爵士] Bossa Nova Hits Radio 256K MP3
 http://strm112.1.fm/bossanova_mobile_mp3
-
 #EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz
 https://bsj.lucasmultimedia.com:8002/stream.ogg
-
 #EXTINF:-1,[B爵士] Europa Radio Jazz
 https://onair.europaradiojazz.org/radio/8000/hd
-
 #EXTINF:-1,[B爵士] FluxFM Jazzradio Schwarzenstein
 http://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=64445n8r%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1682201230
-
 #EXTINF:-1,[B爵士] FluxFM XJAZZ
 http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=64450n12%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1682246162
-
 #EXTINF:-1,[B爵士] Hi On Line Jazz Radio
 http://mediaserv38.live-streams.nl:8006/
-
 #EXTINF:-1,[B爵士] Jazz Sakura (asia dream radio)
 http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
-
 #EXTINF:-1,[B爵士] JazzRadio 106.8 Berlin
 https://streaming.radio.co/s774887f7b/listen
-
 #EXTINF:-1,[B爵士] JazzStream 96K MP3
 http://17853.live.streamtheworld.com/JAZZSTREAM.mp3
-
 #EXTINF:-1,[B爵士] KCSM Jazz 128K MP3
 http://ice7.securenetsystems.net/KCSM2
-
 #EXTINF:-1,[B爵士] Linn Jazz
 http://radio.linn.co.uk:8000/autodj
-
 #EXTINF:-1,[B爵士] Naim Jazz 320K AAC
 http://mscp3.live-streams.nl:8340/jazz-high.aac
-
 #EXTINF:-1,[B爵士] NDR Blue Jazz Nacht
 http://d121.rndfnk.com/ard/ndr/loop/19/mp3/128/stream.mp3?cid=01FBRMBT889S0K2ADVQPS3WWRE&sid=2POP1ZMyMyfChyy1eQxOzvupmHw&token=ghTcaDT_nTVT8m90SIykJypcf-JOTu-pkwJ9m0vbjkU&tvf=011gicJyXBdkMTIxLnJuZGZuay5jb20
-
 #EXTINF:-1,[B爵士] NDR Info Play Jazz
 http://d131.rndfnk.com/ard/ndr/loop/31/mp3/128/stream.mp3?cid=01FBRZFJHDPERJNQJ72DX4GBCK&sid=2OoIutPmkBzYlduG8kAUJcvUyYE&token=qPaNUKUi4YWNhxv59268yI72CoMcpfzMGN48_GfTAnk&tvf=5-OxP32GWBdkMTMxLnJuZGZuay5jb20
-
 #EXTINF:-1,[B爵士] Nonstop Casiopea
 http://hyades.shoutca.st:8551/;
-
 #EXTINF:-1,[B爵士] Sax4Love 256K MP3
 http://strm112.1.fm/sax4ever_mobile_mp3
-
 #EXTINF:-1,[B爵士] Shonan Beach FM 78.9
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-
 #EXTINF:-1,[B爵士] Smoot Jazz CROOZE
 http://streams.crooze.fm:8010/stream128
-
 #EXTINF:-1,[B爵士] Smooth Jazz
 https://smoothjazz.cdnstream1.com/2585_320.mp3
-
 #EXTINF:-1,[B爵士] ČRO Jazz 224K OGG
 https://rozhlas.stream/jazz_mp3_256.mp3
-
 #EXTINF:-1,[C輕鬆] Calm Radio Solo Piano
 http://streams.calmradio.com:1228/stream
-
 #EXTINF:-1,[C輕鬆] Easy CROOZE
 http://streams.crooze.fm:8012/stream128
-
 #EXTINF:-1,[C輕鬆] Mother Earth Instrumental 320K AAC
 http://server9.streamserver24.com:18920/motherearth.instrumental.aac
-
 #EXTINF:-1,[C輕鬆] Mother Earth Radio 320K AAC
 http://server9.streamserver24.com:18900/motherearth.aac
-
 #EXTINF:-1,[C輕鬆] Naim Radio 320K AAC
 http://mscp3.live-streams.nl:8360/high.aac
-
 #EXTINF:-1,[C輕鬆] NDR Schlager 128K MP3
 https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
-
 #EXTINF:-1,[C輕鬆] Radio Paloma Volksmusik
 http://pool.radiopaloma.de/RP-Volksmusik.mp3
-
 #EXTINF:-1,[C輕鬆] RauteMusik Solopiano
 http://rautemusik-de-hz-fal-stream14.radiohost.de/solopiano?
-
 #EXTINF:-1,[C輕鬆] Relaxing Piano
 http://relaxing-piano.stream.laut.fm/relaxing-piano?t302=2023-05-05_00-27-00&uuid=43256cad-c4a5-4884-82d3-78f100eedd94
-
 #EXTINF:-1,[C輕鬆] Whisperings Solo Piano Radio
 http://pianosolo.streamguys.net/live
-
 #EXTINF:-1,[D亞洲] Aewen Radio K-Jpop Channel
 http://209.58.145.135:8031/stream
-
 #EXTINF:-1,[D亞洲] Aewen Radio K-OSTs Channel
 http://209.58.145.135:8025/stream
-
 #EXTINF:-1,[D亞洲] Aewen Radio K-Pop Channel
 http://209.58.145.135:8001/stream
-
 #EXTINF:-1,[D亞洲] AnimeNfo Radio
 https://stream-053.zeno.fm/xwa8ckz7mzzuv?zs=JHb6gVrURA2-A5uZJs1XxQ
-
 #EXTINF:-1,[D亞洲] BBN Japanese
 http://stream2.bbnradio.org:8000/japanese.aac
-
 #EXTINF:-1,[D亞洲] Big B Radio Asian pop
 https://antares.dribbcast.com/proxy/apop?mp=/s?
-
 #EXTINF:-1,[D亞洲] Big B Radio Jpop
 https://antares.dribbcast.com/proxy/jpop?mp=/s
-
 #EXTINF:-1,[D亞洲] Big B Radio Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
-
 #EXTINF:-1,[D亞洲] Calm Radio Jpop
 http://streams.calmradio.com:21928/stream
-
 #EXTINF:-1,[D亞洲] J-Rock Powerplay
 https://kathy.torontocast.com:3340/stream/1/?esPlayer
-
 #EXTINF:-1,[D亞洲] Japan-A-Radio
 http://audio.misproductions.com/japan128k
-
 #EXTINF:-1,[D亞洲] Japanese Music Radio
 http://live.japanesemusicid.com:8000/japanesemusic
-
 #EXTINF:-1,[D亞洲] Japanisu Radio Japanese Music & Asian Music
 https://stream.radioani.me/listen/japanisu/radio.mp3
-
 #EXTINF:-1,[E臺灣] Bravo FM 台北都會音樂台
 https://onair.bravo913.com.tw:9130/live.mp3
-
 #EXTINF:-1,[E臺灣] Classical 古典音樂台 FM 97.7
 http://59.120.88.155:8000/live.mp3
-
 #EXTINF:-1,[E臺灣] IC之音 FM97.5
 https://stream.rcs.revma.com/7mnq8rt7k5zuv
-
 #EXTINF:-1,[E臺灣] TAIWAN LOUNGE RADIO
 https://azuracast.conceptradio.fr/radio/8030/stream.mp3
-
 #EXTINF:-1,[E臺灣] 中廣i go AM531
 https://stream.rcs.revma.com/1qxn2vg3qtzuv
-
 #EXTINF:-1,[E臺灣] 中廣新聞網 NewsRadio
 https://stream.rcs.revma.com/fgtx07f3qtzuv
-
 #EXTINF:-1,[E臺灣] 中廣流行網 i like radio
 https://stream.rcs.revma.com/s1zttsg3qtzuv
-
 #EXTINF:-1,[E臺灣] 中廣鄉親網 Country
 https://stream.rcs.revma.com/p2e3rfg3qtzuv
-
 #EXTINF:-1,[E臺灣] 中廣音樂網 i radio
 https://stream.rcs.revma.com/ks4vsmg3qtzuv
-
 #EXTINF:-1,[E臺灣] 佳音經典音樂網
 https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
-
 #EXTINF:-1,[E臺灣] 台北古典廣播
 https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
-
 #EXTINF:-1,[E臺灣] 栗子的輕音樂
 http://lizeradio.com:8080/;&type=mp3
-
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=XMiWOQMOzAHhN-alY_m5ag&expires=1691570579
-
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=39gLPkO_dm5nTKOApW-svw&expires=1691574397
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=PkfwApEWKXFQPThqY56ZVA&expires=1691570579
-
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=7cki6h6dcCC38yRMb4q8Vw&expires=1691574397
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=5vmS3AS6zqvKf2S2V7QDVw&expires=1691570579
-
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=ZRq9F1_3vYyiMO4ZENHw_g&expires=1691574397
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=2D3vT2swO4oeQUmMA-mLgg&expires=1691570579
-
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=QGVo0ZpFe01LikSv4R_bpQ&expires=1691574397
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=PRLb8lnQP3d3tUYb-eQ5RQ&expires=1691570579
-
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=QdYeCXkW3mBKdOZ6iRIumQ&expires=1691574397
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 好事989電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=P5NVZvBqkDrhNfbLQ_bazA&expires=1688978580
-
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=BJwasGtBe7G-f_98QpDeuw&expires=1688982398
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 好事903電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=sL5kegKS-Fd3GavrXhYDaQ&expires=1688978580
-
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=91UqABAC0_Gwsg28mzkcZg&expires=1688982398
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 港都983電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=CpNuv9qUrmnsoDJTZKUC-w&expires=1688978580
-
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=niGm2xuCz1c-PnDpvIUZ_w&expires=1688982398
+#EXTM3U8 
 #EXTINF:-1,[E臺灣] 好事935電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=3TPOrkzubNsCEuf6KLplAg&expires=1688978580
-
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=_P1wHmetq1DiWwa5XyjkJw&expires=1688982398
