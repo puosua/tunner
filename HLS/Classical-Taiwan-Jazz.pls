@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=台北愛樂 Jazz HLS 
-File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=L_6Dzr7QYt7oUiuw7hbr3w&expires=1691569641
+File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=PkfwApEWKXFQPThqY56ZVA&expires=1691570579
