@@ -28,3 +28,23 @@ https://github.com/puosua/tunner/raw/main/HLS/Classical-Taiwan-Kids.pls
 https://github.com/puosua/tunner/raw/main/HLS/Classical-Taiwan-UR-Classical.m3u8
 
 https://github.com/puosua/tunner/raw/main/HLS/Classical-Taiwan-UR-Classical.pls
+
+# Playlist - [E臺灣] 好事989電台 HLS 
+https://github.com/puosua/tunner/raw/main/HLS/bestradio1-fm989.m3u8
+
+https://github.com/puosua/tunner/raw/main/HLS/bestradio1-fm989.pls
+
+# Playlist - [E臺灣] 好事903電台 HLS
+https://github.com/puosua/tunner/raw/main/HLS/bestradio2-fm903.m3u8
+
+https://github.com/puosua/tunner/raw/main/HLS/bestradio2-fm903.pls
+
+# Playlist - [E臺灣] 港都983電台 HLS
+https://github.com/puosua/tunner/raw/main/HLS/bestradio3-fm983.m3u8
+
+https://github.com/puosua/tunner/raw/main/HLS/bestradio3-fm983.pls
+
+# Playlist - [E臺灣] 好事935電台 HLS
+https://github.com/puosua/tunner/raw/main/HLS/bestradio4-fm935.m3u8
+
+https://github.com/puosua/tunner/raw/main/HLS/bestradio4-fm935.pls
