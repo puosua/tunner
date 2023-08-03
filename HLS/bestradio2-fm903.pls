@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=好事903電台 HLS 
-File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=e1NPD4uCaGRBs6AKjY7cVA&expires=1691071264
+File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=s5maNNqASYb7Ti4f1FGh6g&expires=1691157665
