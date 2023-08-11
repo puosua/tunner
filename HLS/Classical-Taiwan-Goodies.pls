@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=台北愛樂 Goodies HLS 
-File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=If0yezvsYt8BTqiJnze9pg&expires=1694354461
+File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=SIg_heitq8YmwtAADVKFSQ&expires=1694440862
