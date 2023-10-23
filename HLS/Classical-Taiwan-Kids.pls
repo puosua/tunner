@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=台北愛樂 Kids HLS 
-File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=PwoyA3-zGpXceNOEIoknFA&expires=1700661662
+File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=W1VbcU78a789niBc7WmDgQ&expires=1700748062
