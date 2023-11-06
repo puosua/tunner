@@ -249,11 +249,21 @@ https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
 https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
 #EXTINF:-1,[E臺灣] 栗子的輕音樂 128K MP3
 http://lizeradio.com:8080/;&type=mp3
+#EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=Jd0SjCj6fPOhl7mhkpd5zg&expires=1701871261
+#EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=b4ENxgsHiPTJN2BXHx9azw&expires=1701871261
+#EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=tyaKYVHrqDuGU8akTQby7A&expires=1701871261
+#EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=_i1D2qWJXlw0y4hXV8sCng&expires=1701871261
+#EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=b5XWPQj988DhaPi21dYwUQ&expires=1701871261
 #EXTINF:-1,[E臺灣] 好事989電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=u-V0ZirVBoKKqw2Ola5RhA&expires=1699279264
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=UeK-J8mkeuCSn_AiKH2cAg&expires=1699365662
 #EXTINF:-1,[E臺灣] 好事903電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=rATz1BbnTWcIlpqIlgk6Bg&expires=1699279264
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=9y_lXVbaP5mpbBA5TEn8zQ&expires=1699365662
 #EXTINF:-1,[E臺灣] 港都983電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=sw5lKMnxi57p6UK61ZEo_g&expires=1699279264
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=mHb3-aPZuumJdUAe3fNBOg&expires=1699365662
 #EXTINF:-1,[E臺灣] 好事935電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=CHKtf36bkJj8YQPlmRg6BA&expires=1699279264
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=cfeS581Fc8FHOkSE7vwCIA&expires=1699365662
