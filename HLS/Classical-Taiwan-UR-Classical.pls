@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=台北愛樂 UR Classical HLS 
-File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=zbbH2fE0oVdz2Ose2-6pGQ&expires=1705240862
+File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=tZOCc2vFBOdTZ39kzsakgw&expires=1705327262
