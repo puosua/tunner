@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=台北愛樂 FM99.7 HLS 
-File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=HmhKOWJxHQi6Y3TresNg5g&expires=1707141663
+File1=https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=BP-s1ukrh1kWNFwKHF9dPA&expires=1707228063
