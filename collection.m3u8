@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[A古典] 0N Klassik 128K MP3
 https://0n-klassik.radionetz.de/0n-klassik.mp3
-#EXTINF:-1,[A古典] BBC Radio 3 HLS 96K AAC
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
+#EXTINF:-1,[A古典] BBC Radio 3 320K AAC
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
 #EXTINF:-1,[A古典] BR-Klassik 256K MP3
 https://d131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2Oof7oZrX215eg48HvtLP5C0Usc&token=LpGr4IGig8aND4V89fefJ_CJSaesB0s--_sHivp-Ld4&tvf=ASjIbnSQWBdkMTMxLnJuZGZuay5jb20
 #EXTINF:-1,[A古典] Calm Radio Bach 128K MP3
@@ -53,8 +53,8 @@ https://klassikr.streamabc.net/klr-piano-mp3-192-1690902
 https://klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897
 #EXTINF:-1,[A古典] KPBS Classical San Diego 128K MP3
 http://kpbs-classical.streamguys1.com/kpbs-classical
-#EXTINF:-1,[A古典] KUAT Classical 90.5 HLS 256K AAC
-http://128.196.34.144/t-stream/kuat.m3u8
+#EXTINF:-1,[A古典] KUAT-FM Classical 90.5 FLAC
+https://hls.azpm.org/t-fmp4/FLAC/KUAT_FLAC.m3u8
 #EXTINF:-1,[A古典] Linn Classical 320K MP3
 http://radio.linn.co.uk:8004/autodj
 #EXTINF:-1,[A古典] MDR Klassik 128K MP3
@@ -69,8 +69,6 @@ http://server9.streamserver24.com:18910/motherearth.klassik
 http://mscp3.live-streams.nl:8250/class-high.aac
 #EXTINF:-1,[A古典] NDR Kultur 128K MP3
 http://d111.rndfnk.com/ard/ndr/ndrkultur/live/mp3/128/stream.mp3?cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=2PNKT1Hem733NOKPeyKaPghzUFA&token=LX-j0Z0hgBPVqF5BoJ0CuWjsqwiO5waOyU6v8b7G_F4&tvf=hh7b4ORUXBdkMTExLnJuZGZuay5jb20
-#EXTINF:-1,[A古典] Opus 47K AAC
-http://astro4.rastream.com/opus
 #EXTINF:-1,[A古典] Ottava 128K MP3
 http://ottava2.out.airtime.pro:8000/ottava2_a
 #EXTINF:-1,[A古典] Otto's Baroque Music Radio 256K MP3
@@ -118,7 +116,7 @@ https://bsj.lucasmultimedia.com:8002/stream.mp3
 #EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz 128K OGG
 https://bsj.lucasmultimedia.com:8002/stream.ogg
 #EXTINF:-1,[B爵士] Europa Radio Jazz 320K AAC
-http://onair.europaradiojazz.org/radio/8000/hd
+https://onair.europaradiojazz.org/radio/8000/hd
 #EXTINF:-1,[B爵士] FluxFM Jazzradio Schwarzenstein 320K MP3
 http://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342
 #EXTINF:-1,[B爵士] FluxFM XJAZZ 320K MP3
@@ -138,9 +136,9 @@ http://radio.linn.co.uk:8000/autodj
 #EXTINF:-1,[B爵士] Naim Jazz 320K AAC
 http://mscp3.live-streams.nl:8340/jazz-high.aac
 #EXTINF:-1,[B爵士] NDR Blue Jazz Nacht 128K MP3
-http://d121.rndfnk.com/ard/ndr/loop/19/mp3/128/stream.mp3?cid=01FBRMBT889S0K2ADVQPS3WWRE&sid=2POP1ZMyMyfChyy1eQxOzvupmHw&token=ghTcaDT_nTVT8m90SIykJypcf-JOTu-pkwJ9m0vbjkU&tvf=011gicJyXBdkMTIxLnJuZGZuay5jb20
+http://d121.rndfnk.com/ard/ndr/ndrblue/live/mp3/128/stream.mp3?cid=01FBRKP5C4ZTW2HDT3Y5BR8ZQS&sid=2aeojOMwiYj936jHUsa8r7xrrtj&token=AS2_Z-6IUR6_ktHHR8xU4pu-PODv85z2MFrxv_agG4I&tvf=_0SvANdYqBdkMTIxLnJuZGZuay5jb20
 #EXTINF:-1,[B爵士] NDR Info Play Jazz 128K MP3
-http://d131.rndfnk.com/ard/ndr/loop/31/mp3/128/stream.mp3?cid=01FBRZFJHDPERJNQJ72DX4GBCK&sid=2OoIutPmkBzYlduG8kAUJcvUyYE&token=qPaNUKUi4YWNhxv59268yI72CoMcpfzMGN48_GfTAnk&tvf=5-OxP32GWBdkMTMxLnJuZGZuay5jb20
+http://f131.rndfnk.com/ard/ndr/ndrinfo/hamburg/mp3/128/stream.mp3?cid=01FBQ2FR04JVDRRM969ZTAMZNK&sid=2aeXw5ZmgfQQmdJCdljDPFYLFKT&token=lXzC4_sxddDTIRpbBexo4Njjd9OXn8tDEQwlnxHpZ3A&tvf=52Bh5k1RqBdmMTMxLnJuZGZuay5jb20
 #EXTINF:-1,[B爵士] Nonstop Casiopea 128K MP3
 http://hyades.shoutca.st:8551/;
 #EXTINF:-1,[B爵士] Sax4Love 256K MP3
@@ -215,8 +213,6 @@ http://live01.inlive.co.kr/listen.html?port=12080
 http://live01.inlive.co.kr/listen.html?port=10050
 #EXTINF:-1,[D亞洲] J-Rock Powerplay 128K MP3
 https://kathy.torontocast.com:3340/stream/1/?esPlayer
-#EXTINF:-1,[D亞洲] Japan-A-Radio 128K MP3
-http://audio.misproductions.com/japan128k
 #EXTINF:-1,[D亞洲] Japanese Music Radio 80K AAC
 http://live.japanesemusicid.com:8000/japanesemusic
 #EXTINF:-1,[D亞洲] Japanisu Radio Japanese Music & Asian Music 128K MP3
@@ -239,8 +235,6 @@ http://stream.rcs.revma.com/1qxn2vg3qtzuv
 http://stream.rcs.revma.com/fgtx07f3qtzuv
 #EXTINF:-1,[E臺灣] 中廣流行網 i like radio AAC
 http://stream.rcs.revma.com/s1zttsg3qtzuv
-#EXTINF:-1,[E臺灣] 中廣鄉親網 Country AAC
-http://stream.rcs.revma.com/p2e3rfg3qtzuv
 #EXTINF:-1,[E臺灣] 中廣音樂網 i radio AAC
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1,[E臺灣] 佳音經典音樂網 AAC
@@ -250,20 +244,20 @@ https://stream-069.zeno.fm/w66d3dp6ynhvv?zs=ScW3l3d-SSS2sQYLLmFh5w
 #EXTINF:-1,[E臺灣] 栗子的輕音樂 128K MP3
 http://lizeradio.com:8080/;&type=mp3
 #EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=0qOFiTu17X-uECamYD98AA&expires=1707314461
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=QB0rz2Hzz18KMe1j-AJadg&expires=1707395350
 #EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=rngmUm2LevJ8NbtRNo8ySg&expires=1707314461
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=l20tDGXfo5fip2kjoam-cg&expires=1707395350
 #EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=1b1TsCZ9G0G78UlxP_acCw&expires=1707314461
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=E8gftoK-Ts1QGqNpw7_0tQ&expires=1707395350
 #EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=Wy-qIcgRY_mPQDIZ9JoLlQ&expires=1707314461
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=kHbW-SValzJ93rhzs1GMxQ&expires=1707395350
 #EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
-https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=KK6HBBJzOB1-Id0iZzOR7Q&expires=1707314461
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=Os3D69wNpLx_fK2fG3szSQ&expires=1707395350
 #EXTINF:-1,[E臺灣] 好事989電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=i8v5u885VPF7_K42fHT50Q&expires=1704722462
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=IT6sCNg9vNNG0ngEwqnC_A&expires=1704803351
 #EXTINF:-1,[E臺灣] 好事903電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=zLnMbiaAF-pHi-o6dR65Dg&expires=1704722462
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=3AHH3I1_FW6TsZAsDaMV7A&expires=1704803351
 #EXTINF:-1,[E臺灣] 港都983電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=LwD0NiibAgR-M9FGHWuSKQ&expires=1704722462
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=QIpHBHC31cYyE0HkCtRHGA&expires=1704803351
 #EXTINF:-1,[E臺灣] 好事935電台 HLS 
-https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=5s-E9HUOaXAB2GxSfVkHWg&expires=1704722462
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=5D9sVWIIDbCzq4cdMFC-vA&expires=1704803351
