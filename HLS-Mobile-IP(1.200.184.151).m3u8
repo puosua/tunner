@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,[E臺灣] 台北愛樂 FM99.7 HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000018/playlist.m3u8?token=eOHwy8x-OOZAUxQjVJ0T4w&expires=1708660357
+#EXTINF:-1,[E臺灣] 台北愛樂 Jazz HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000109/playlist.m3u8?token=KhVf1NVBVS-kUnKygy0k9w&expires=1708660357
+#EXTINF:-1,[E臺灣] 台北愛樂 Goodies HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000120/playlist.m3u8?token=2pEdZEZdhVTUaors3krhAw&expires=1708660357
+#EXTINF:-1,[E臺灣] 台北愛樂 Kids HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000129/playlist.m3u8?token=JtNJMBgHAfYesy0CShiWMw&expires=1708660357
+#EXTINF:-1,[E臺灣] 台北愛樂 UR Classical HLS 
+https://eclassicalradiow-hichannel.cdn.hinet.net/live/RA000130/playlist.m3u8?token=OTKuFG4lkEKYAKgaLMNjVQ&expires=1708660357
+#EXTINF:-1,[E臺灣] 好事989電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=9muDsgJxbZZ3ha2YfLIYoQ&expires=1706068358
+#EXTINF:-1,[E臺灣] 好事903電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=8yBlljra1Dc-F7-1kTMbyA&expires=1706068358
+#EXTINF:-1,[E臺灣] 港都983電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=YmDb0EgfCLd4f63pjmHs6Q&expires=1706068358
+#EXTINF:-1,[E臺灣] 好事935電台 HLS 
+https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=eosNmSjOuoeE3Wj9b_s-CQ&expires=1706068358
