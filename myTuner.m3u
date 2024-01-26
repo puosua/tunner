@@ -107,14 +107,12 @@ https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 http://strm112.1.fm/ajazz_mobile_mp3
 #EXTINF:-1,[B爵士] Bay Smooth Jazz Radio 256K MP3
 http://strm112.1.fm/smoothjazz_mobile_mp3
+#EXTINF:-1,[B爵士] Best Smooth Jazz UK 128K MP3
+http://64.95.243.43:8002/stream
 #EXTINF:-1,[B爵士] Blues Radio 256K MP3
 http://strm112.1.fm/blues_mobile_mp3
 #EXTINF:-1,[B爵士] Bossa Nova Hits Radio 256K MP3
 http://strm112.1.fm/bossanova_mobile_mp3
-#EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz 128K MP3
-https://bsj.lucasmultimedia.com:8002/stream.mp3
-#EXTINF:-1,[B爵士] BSJ.FM Best Smooth Jazz 128K OGG
-https://bsj.lucasmultimedia.com:8002/stream.ogg
 #EXTINF:-1,[B爵士] Europa Radio Jazz 320K AAC
 https://onair.europaradiojazz.org/radio/8000/hd
 #EXTINF:-1,[B爵士] FluxFM Jazzradio Schwarzenstein 320K MP3
