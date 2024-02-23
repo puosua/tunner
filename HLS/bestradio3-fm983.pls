@@ -1,4 +1,4 @@
 [playlist] 
 NumberOfEntries=1 
 Title1=港都983電台 HLS 
-File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=hk9Pnuv_dQ275dkV9XN5xQ&expires=1708696864
+File1=https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=h7pNy1WCED7N_Bsbp0z4mg&expires=1708783263
